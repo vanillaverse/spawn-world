@@ -1,0 +1,145 @@
+markers:
+  - name: spawn
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 64.5
+      y: 85.0
+      z: 1.5
+      pitch: 0.0
+      yaw: 90.0
+  - name: teleporter_1
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 53.5
+      y: 84.8125
+      z: 16.5
+      pitch: 0.0
+      yaw: -180.0
+  - name: npc_event
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 29.5
+      y: 94.0
+      z: 17.5
+      pitch: 0.0
+      yaw: 0.0
+  - name: npc_foex
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 20.5
+      y: 111.0
+      z: 73.5
+      pitch: 0.0
+      yaw: 0.0
+  - name: foex_item_1
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 11.5
+      y: 120.0
+      z: 120.5
+      pitch: 0.0
+      yaw: 0.0
+  - name: foex_item_2
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: -21.5
+      y: 100.0
+      z: 9.5
+      pitch: 0.0
+      yaw: 0.0
+  - name: foex_item_3
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 87.5
+      y: 93.0
+      z: 27.5
+      pitch: 0.0
+      yaw: 0.0
+  - name: foex_item_4
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 53.5
+      y: 120.0
+      z: 106.5
+      pitch: 0.0
+      yaw: 0.0
+  - name: foex_item_5
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 4.5
+      y: 98.0
+      z: 101.5
+      pitch: 0.0
+      yaw: 0.0
+  - name: spawn_portal
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: -20.5
+      y: 112.0
+      z: 96.5
+      pitch: 0.0
+      yaw: 0.0
+  - name: npc_curator_1
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: -120.5
+      y: 117.0
+      z: 19.5
+      pitch: 0.0
+      yaw: -180.0
+  - name: npc_curator_2
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: -120.5
+      y: 117.0
+      z: 3.5
+      pitch: 0.0
+      yaw: 90.0
+  - name: npc_curator_3
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: -126.5
+      y: 117.0
+      z: 3.5
+      pitch: 0.0
+      yaw: 0.0
+  - name: npc_curator_4
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: -126.5
+      y: 117.0
+      z: 19.5
+      pitch: 0.0
+      yaw: -90.0
+  - name: spawn_gate
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 45.48669713498119
+      y: 85.5
+      z: 13.560769045416261
+      pitch: 90.0
+      yaw: 99.45109
+  - name: teleporter_1_dest
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 2.5
+      y: 111.0
+      z: 96.5
+      pitch: -12.0
+      yaw: 90.0
