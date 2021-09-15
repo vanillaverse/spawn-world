@@ -179,3 +179,57 @@ markers:
       z: -3.5
       pitch: 0.0
       yaw: 0.0
+  - name: captain_pos_0
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 86.5
+      y: 86.0
+      z: 519.5
+      pitch: 0.0
+      yaw: -180.0
+  - name: captain_pos_1
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 86.5
+      y: 86.0
+      z: 19.5
+      pitch: 0.0
+      yaw: -180.0
+  - name: captain_pos_2
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 82.16200726975595
+      y: 86.0
+      z: 17.83280215589781
+      pitch: 10.499874
+      yaw: 177.29924
+  - name: captain_pos_3
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 81.96418157281157
+      y: 85.0
+      z: 10.388064360992907
+      pitch: 8.399885
+      yaw: 90.60071
+  - name: captain_pos_4
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 55.87264973979571
+      y: 84.0625
+      z: 11.27780250332762
+      pitch: 7.6498857
+      yaw: 81.90097
+  - name: captain_pos_5
+    location:
+      ==: org.bukkit.Location
+      world: world
+      x: 49.031942405514826
+      y: 84.0
+      z: 9.641306610113169
+      pitch: 1.6499032
+      yaw: -77.550964
